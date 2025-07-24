@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaepa\\game 2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaepa\\game 2025\\Packages\\com.distantlands.cozy.core\\Editor\\CozySceneTools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Packages\\com.distantlands.cozy.core\\Editor\\CozySceneTools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaepa\\game 2025\\Assets\\Malbers Animations\\Common\\Scripts\\Input\\MMouseScroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Malbers Animations\\Common\\Scripts\\Input\\MMouseScroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaepa\\game 2025\\Assets\\script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaepa\\game 2025\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\SimpleScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\SimpleScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4F5B05-F563-2F53-B12D-989A6F9D548E}|sc.stylizedwater3.editor.csproj|C:\\Users\\kaepa\\game 2025\\assets\\stylized water 3\\editor\\underwater\\underwaterareaeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F5B05-F563-2F53-B12D-989A6F9D548E}|sc.stylizedwater3.editor.csproj|solutionrelative:assets\\stylized water 3\\editor\\underwater\\underwaterareaeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaepa\\game 2025\\Assets\\Malbers Animations\\Common\\Input System\\Scripts\\MInputLink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Malbers Animations\\Common\\Input System\\Scripts\\MInputLink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaepa\\game 2025\\Assets\\Invector-3rdPersonController\\Basic Locomotion\\Scripts\\Ragdoll\\vRagdoll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Invector-3rdPersonController\\Basic Locomotion\\Scripts\\Ragdoll\\vRagdoll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaepa\\game 2025\\Assets\\Malbers Animations\\Common\\Input System\\Scripts\\MInputLink AutoConnections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Malbers Animations\\Common\\Input System\\Scripts\\MInputLink AutoConnections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaepa\\game 2025\\Packages\\com.distantlands.cozy.core\\Runtime\\Shaders\\Stylized Terrain Shader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Packages\\com.distantlands.cozy.core\\Runtime\\Shaders\\Stylized Terrain Shader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaepa\\game 2025\\Library\\PackageCache\\com.unity.render-pipelines.universal@bf6d194af387\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@bf6d194af387\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaepa\\game 2025\\Assets\\Invector-3rdPersonController\\Basic Locomotion\\Scripts\\CharacterController\\vInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Invector-3rdPersonController\\Basic Locomotion\\Scripts\\CharacterController\\vInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CozySceneTools.cs",
+              "DocumentMoniker": "C:\\Users\\kaepa\\game 2025\\Packages\\com.distantlands.cozy.core\\Editor\\CozySceneTools.cs",
+              "RelativeDocumentMoniker": "Packages\\com.distantlands.cozy.core\\Editor\\CozySceneTools.cs",
+              "ToolTip": "C:\\Users\\kaepa\\game 2025\\Packages\\com.distantlands.cozy.core\\Editor\\CozySceneTools.cs",
+              "RelativeToolTip": "Packages\\com.distantlands.cozy.core\\Editor\\CozySceneTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:04:21.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MMouseScroll.cs",
+              "DocumentMoniker": "C:\\Users\\kaepa\\game 2025\\Assets\\Malbers Animations\\Common\\Scripts\\Input\\MMouseScroll.cs",
+              "RelativeDocumentMoniker": "Assets\\Malbers Animations\\Common\\Scripts\\Input\\MMouseScroll.cs",
+              "ToolTip": "C:\\Users\\kaepa\\game 2025\\Assets\\Malbers Animations\\Common\\Scripts\\Input\\MMouseScroll.cs",
+              "RelativeToolTip": "Assets\\Malbers Animations\\Common\\Scripts\\Input\\MMouseScroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:01:41.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "script.cs",
+              "DocumentMoniker": "C:\\Users\\kaepa\\game 2025\\Assets\\script.cs",
+              "RelativeDocumentMoniker": "Assets\\script.cs",
+              "ToolTip": "C:\\Users\\kaepa\\game 2025\\Assets\\script.cs",
+              "RelativeToolTip": "Assets\\script.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T03:43:30.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleScript.cs",
+              "DocumentMoniker": "C:\\Users\\kaepa\\game 2025\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\SimpleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\SimpleScript.cs",
+              "ToolTip": "C:\\Users\\kaepa\\game 2025\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\SimpleScript.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\SimpleScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T03:36:48.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnderwaterAreaEditor.cs",
+              "DocumentMoniker": "C:\\Users\\kaepa\\game 2025\\Assets\\Stylized Water 3\\Editor\\Underwater\\UnderwaterAreaEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Stylized Water 3\\Editor\\Underwater\\UnderwaterAreaEditor.cs",
+              "ToolTip": "C:\\Users\\kaepa\\game 2025\\Assets\\Stylized Water 3\\Editor\\Underwater\\UnderwaterAreaEditor.cs",
+              "RelativeToolTip": "Assets\\Stylized Water 3\\Editor\\Underwater\\UnderwaterAreaEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T03:00:42.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vRagdoll.cs",
+              "DocumentMoniker": "C:\\Users\\kaepa\\game 2025\\Assets\\Invector-3rdPersonController\\Basic Locomotion\\Scripts\\Ragdoll\\vRagdoll.cs",
+              "RelativeDocumentMoniker": "Assets\\Invector-3rdPersonController\\Basic Locomotion\\Scripts\\Ragdoll\\vRagdoll.cs",
+              "ToolTip": "C:\\Users\\kaepa\\game 2025\\Assets\\Invector-3rdPersonController\\Basic Locomotion\\Scripts\\Ragdoll\\vRagdoll.cs",
+              "RelativeToolTip": "Assets\\Invector-3rdPersonController\\Basic Locomotion\\Scripts\\Ragdoll\\vRagdoll.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABRwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:23:10.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MInputLink AutoConnections.cs",
+              "DocumentMoniker": "C:\\Users\\kaepa\\game 2025\\Assets\\Malbers Animations\\Common\\Input System\\Scripts\\MInputLink AutoConnections.cs",
+              "RelativeDocumentMoniker": "Assets\\Malbers Animations\\Common\\Input System\\Scripts\\MInputLink AutoConnections.cs",
+              "ToolTip": "C:\\Users\\kaepa\\game 2025\\Assets\\Malbers Animations\\Common\\Input System\\Scripts\\MInputLink AutoConnections.cs",
+              "RelativeToolTip": "Assets\\Malbers Animations\\Common\\Input System\\Scripts\\MInputLink AutoConnections.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:10:38.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stylized Terrain Shader.shader",
+              "DocumentMoniker": "C:\\Users\\kaepa\\game 2025\\Packages\\com.distantlands.cozy.core\\Runtime\\Shaders\\Stylized Terrain Shader.shader",
+              "RelativeDocumentMoniker": "Packages\\com.distantlands.cozy.core\\Runtime\\Shaders\\Stylized Terrain Shader.shader",
+              "ToolTip": "C:\\Users\\kaepa\\game 2025\\Packages\\com.distantlands.cozy.core\\Runtime\\Shaders\\Stylized Terrain Shader.shader",
+              "RelativeToolTip": "Packages\\com.distantlands.cozy.core\\Runtime\\Shaders\\Stylized Terrain Shader.shader",
+              "ViewState": "AgIAACMOAAAAAAAAAAAMwDsOAABGAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-07-24T02:09:31.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MInputLink.cs",
+              "DocumentMoniker": "C:\\Users\\kaepa\\game 2025\\Assets\\Malbers Animations\\Common\\Input System\\Scripts\\MInputLink.cs",
+              "RelativeDocumentMoniker": "Assets\\Malbers Animations\\Common\\Input System\\Scripts\\MInputLink.cs",
+              "ToolTip": "C:\\Users\\kaepa\\game 2025\\Assets\\Malbers Animations\\Common\\Input System\\Scripts\\MInputLink.cs",
+              "RelativeToolTip": "Assets\\Malbers Animations\\Common\\Input System\\Scripts\\MInputLink.cs",
+              "ViewState": "AgIAAIUEAAAAAAAAAAAAAPoDAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:08:39.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TerrainLit.shader",
+              "DocumentMoniker": "C:\\Users\\kaepa\\game 2025\\Library\\PackageCache\\com.unity.render-pipelines.universal@bf6d194af387\\Shaders\\Terrain\\TerrainLit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@bf6d194af387\\Shaders\\Terrain\\TerrainLit.shader",
+              "ToolTip": "C:\\Users\\kaepa\\game 2025\\Library\\PackageCache\\com.unity.render-pipelines.universal@bf6d194af387\\Shaders\\Terrain\\TerrainLit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@bf6d194af387\\Shaders\\Terrain\\TerrainLit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-07-23T22:43:55.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "vInput.cs",
+              "DocumentMoniker": "C:\\Users\\kaepa\\game 2025\\Assets\\Invector-3rdPersonController\\Basic Locomotion\\Scripts\\CharacterController\\vInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Invector-3rdPersonController\\Basic Locomotion\\Scripts\\CharacterController\\vInput.cs",
+              "ToolTip": "C:\\Users\\kaepa\\game 2025\\Assets\\Invector-3rdPersonController\\Basic Locomotion\\Scripts\\CharacterController\\vInput.cs",
+              "RelativeToolTip": "Assets\\Invector-3rdPersonController\\Basic Locomotion\\Scripts\\CharacterController\\vInput.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAjwJ8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T22:32:49.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
